@@ -6,6 +6,7 @@ Developer Intern Challenge Question
 ## Live Demo
 
 ## Walkthrough
+![Alt Text](https://media.giphy.com/media/fpE2ESlAAXRQhWfad1/giphy.gif)
 
 ## Technologies Used
 Front-end built on React.  
