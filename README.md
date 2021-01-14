@@ -1,4 +1,4 @@
-# imagefolio (WIP)
+# imagefolio
 
 ## Technologies Used
 Front-end built on React.
@@ -9,11 +9,9 @@ Realtime Database for categorization of user respective data.
 ## Future Implementations
 Use a pre-trained Machine Learning model to auto-tag photos.
 
-
+## Installation
 <pre>
-```js
-function myFunction () {
-   return 42;
-}
-```
+git clone https://github.com/chowdhuryqaizar/imagefolio.git
+npm install
+npm start
 </pre>
