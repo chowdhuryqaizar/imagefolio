@@ -1,4 +1,5 @@
-<img src="imagefolio.png">
+<img src="imagefolio.png" width=50% height=50%>
+
 # imagefolio
 
 Built as a part of Summer 2021 - **Shopify**
