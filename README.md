@@ -3,7 +3,9 @@
 Built as a part of Summer 2021 - **Shopify**
 Developer Intern Challenge Question
 
-## Working Demo:
+## Live Demo
+
+## Walkthrough
 
 ## Technologies Used
 Front-end built on React.
