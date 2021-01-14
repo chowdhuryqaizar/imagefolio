@@ -1,4 +1,4 @@
-<img src="imagefolio.png" width=30px height=30px>
+<img src="imagefolio.png" width=70px height=70px>
 
 # imagefolio
 
