@@ -1,5 +1,8 @@
 # imagefolio
 
+Built as a part of Summer 2021 - ## Shopify
+Developer Intern Challenge Question
+
 ## Technologies Used
 Front-end built on React.
 Firebase Authentication for user registration and login.
