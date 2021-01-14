@@ -1,4 +1,4 @@
-![Alt Text](imagefolio.png)
+<img src="imagefolio.png">
 # imagefolio
 
 Built as a part of Summer 2021 - **Shopify**
