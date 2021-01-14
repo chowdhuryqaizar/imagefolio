@@ -8,10 +8,10 @@ Developer Intern Challenge Question
 ## Walkthrough
 
 ## Technologies Used
-Front-end built on React.__
-Firebase Authentication for user registration and login.__
-Firebase Storage for secure storage of media.__
-Realtime Database for categorization of user respective data.__
+Front-end built on React.  
+Firebase Authentication for user registration and login.  
+Firebase Storage for secure storage of media.  
+Realtime Database for categorization of user respective data.
 
 ## Future Implementations
 Use a pre-trained Machine Learning model to auto-tag photos.
