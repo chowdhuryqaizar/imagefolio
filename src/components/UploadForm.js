@@ -40,7 +40,7 @@ auth.onAuthStateChanged(function (user) {
     <form>
       <label>
         {" "}
-        <input type="file" onChange={handleChange} onClick={()=>{check()}} /> Upload
+        <input type="file" onChange={handleChange} onClick={()=>{check()}} />
       </label>
       <div className="output">
         {error && <div className="error">{error}</div>}
