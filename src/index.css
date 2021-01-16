@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
 
 :root{
-  --primary: #979797;
+  --primary: #7eecff;
   --secondary: #ffffff;
   --error: #ff4a4a;
 }
 
 /* base styles & title */
 body{
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Arvo', serif;
   color: var(--secondary);
   background: #363636;
 }
@@ -16,11 +16,17 @@ body{
   max-width: 960px;
   margin: 0 auto;
 }
+
+img{
+  max-width: 25%;
+  height: auto;
+}
 .title h1{
   color: black;
   font-size: 1.2rem;
   letter-spacing: 2px;
   font-weight: normal;
+  align-content: center;
 }
 .title h2, .title p{
   text-align: center;
@@ -165,7 +171,7 @@ label:hover{
     border-radius: 4px;
     outline: "none";
     text-align: center;
-    background-color: var(--secondary);
+    background-color: #363636;
   }
   @media only screen and (max-width:801px){
     .paper{
