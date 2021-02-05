@@ -17,8 +17,6 @@ Realtime Database for categorization of user respective data.
 ## Future Implementations
 Use a pre-trained Machine Learning model to auto-tag photos.
 
-Built as a part of Summer 2021 - **Shopify**
-Developer Intern Challenge Question
 
 ## Installation
 <pre>
